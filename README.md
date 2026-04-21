@@ -19,7 +19,6 @@ Para que la terminal reconozca los cambios sin tener que cerrarla, carga el arch
 ```bash
 source ~/.bashrc
 ```
-*(Nota: Si usas Zsh, usá `source ~/.zshrc`)*.
 
 ## 3. Verificar Instalación
 
@@ -52,6 +51,7 @@ nvm install 20
 ```
 
 ### Cambiar entre versiones
+Para correr wollok por ejemplo
 ```bash
 nvm use 20
 ```
