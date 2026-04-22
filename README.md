@@ -6,11 +6,14 @@ Esta guía te permitirá gestionar múltiples versiones de **Node.js** de forma 
 
 ## 1. Instalación de NVM
 
-Ejecuta el script de instalación oficial desde la terminal:
+En linux. Ejecuta el script de instalación oficial desde la terminal:
 
 ```bash
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
+
+En Windows [Descargar NVM para Windows](https://github.com/coreybutler/nvm-windows/releases)
+Ejecutá nvm-setup.exe
 
 ## 2. Refrescar la Configuración
 
@@ -19,6 +22,8 @@ Para que la terminal reconozca los cambios sin tener que cerrarla, carga el arch
 ```bash
 source ~/.bashrc
 ```
+
+O cerrá y abrí la terminal (CMD o PowerShell)
 
 ## 3. Verificar Instalación
 
